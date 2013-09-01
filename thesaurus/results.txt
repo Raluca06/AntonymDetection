@@ -1,0 +1,450 @@
+(ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ right-handed)))))
+ (ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ left-handed)))))
+
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur)))))))))
+ (ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (MD will)
+      (VP (VB grant)
+        (NP (NN permission))
+        (PP (IN for)
+          (NP
+            (NP (NNP United) (NNPS Nations))
+            (VP (VBG peacekeeping)
+              (NP (NNS forces))
+              (S
+                (VP (TO to)
+                  (VP (VB take)
+                    (PRT (RP up))
+                    (NP
+                      (NP (NN station))
+                      (PP (IN in)
+                        (NP (NNP Darfur))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur)))))))))
+ (ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD was)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB accept)
+              (NP (NNP U.N.) (NNP troops)))))))))
+
+(ROOT
+  (S
+    (NP (NNP Sudan))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (NP (NNP U.N.) (NNS troops))
+            (PP (IN in)
+              (NP (NNP Darfur)))))))))
+ (ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBP Sudanese)
+      (SBAR
+        (S
+          (NP (NNP government))
+          (VP (MD will)
+            (VP (VB accept)
+              (S
+                (NP (PRP it))
+                (NP (NNP U.N.) (NNP forces))))))))))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD twelve) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky) (NN though)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again))))))))))))))))))
+ (ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP
+          (NP
+            (QP (RB about) (CD 45))
+            (NNS minutes))
+          (IN in)
+          (NP (DT the) (JJ sky,) (NN though,)))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+
+(ROOT
+  (S
+    (VP (VB )
+      (SBAR
+        (S
+          (NP (DT The) (NNPS Israelis))
+          (VP (VBP say)
+            (SBAR (IN that)
+              (S
+                (NP (PRP they))
+                (VP
+                  (VP (VBP "hit)
+                    (NP
+                      (NP (NNS dozens))
+                      (PP (IN of)
+                        (NP (NNP Hezbollah) (NNP gunmen")))))
+                  (CC but)
+                  (VP (MD could) (RB not)
+                    (VP (VB give)
+                      (NP (JJR more) (NN details.)))))))))))))
+ (ROOT
+  (NP
+    (NP
+      (NP (DT An) (JJ Israeli) (NN army) (NN spokeswoman))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (NNS troops))
+            (VP (VBD had)
+              (VP (VBN killed)
+                (NP (CD 20) (NNP Hezbollah) (NNS militants))))))))
+    (: -)
+    (NP
+      (NP (DT a) (NN claim))
+      (NP (DT the) (NN group) (NN denied.) (NN 	)))))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD two) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky,) (NN though,)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+ (ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NN spending))
+        (PP (IN about)
+          (NP
+            (NP (CD twelve) (NNS hours))
+            (PP (IN in)
+              (NP (DT the) (JJ sky,) (NN though,)))))))
+    (NP (PRP he))
+    (VP (VBD came)
+      (PP (TO to)
+        (NP (DT the) (NN conclusion)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB have)
+              (S
+                (VP (TO to)
+                  (VP (VB shoot)
+                    (NP (DT a) (JJ few) (NNS balloons))
+                    (PP (IN after)
+                      (NP (NNP all;))))))
+              (S
+                (VP (VBG doing)
+                  (S
+                    (S
+                      (ADVP (RB so))
+                      (VP (VBN caused)
+                        (S
+                          (NP (PRP him))
+                          (VP (TO to)
+                            (VP (VB descend)
+                              (ADVP (RB slowly)
+                                (NP (CD again,)))
+                              (SBAR (IN until)
+                                (S
+                                  (NP (DT the) (JJ balloon's) (JJ dangling) (NNS cables))
+                                  (VP (VBD got)
+                                    (VP (VBN caught)
+                                      (PP (IN in)
+                                        (NP (DT a) (NN power) (NN line,)))
+                                      (S
+                                        (VP (VBG causing)
+                                          (NP (DT a) (JJ black))
+                                          (PRT (RP out))
+                                          (PP (IN in)
+                                            (NP
+                                              (NP (DT a) (NNP Long) (NNP Beach))
+                                              (VP (VBN neighbourhood)
+                                                (PP (IN for)
+                                                  (NP
+                                                    (QP (CD 20) (CD minutes,))))))))))))))))))
+                    (CC but)
+                    (S
+                      (ADVP (RB also))
+                      (VP (VBG allowing)
+                        (S
+                          (NP (NNP Walters))
+                          (VP (TO to)
+                            (VP (VB climb)
+                              (PRT (RP down))
+                              (PP (TO to)
+                                (NP (DT the) (NN ground) (NN again.))))))))))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP ) (NNP Bush))
+      (PP (IN at)
+        (NP (NNP State) (NNP department:) (NNP Hezbollah))))
+    (VP (VBD attacked)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Israel.) (NNP Hezbollah))
+            (VP (VBD started)
+              (NP (DT the) (NN crisis.))))
+          (CC And)
+          (S
+            (NP (NNP Hezbollah))
+            (VP (VBD suffered)
+              (NP (DT a) (NN defeat))
+              (PP (IN in)
+                (NP (DT this) (NN crisis.))))))))))
+ (ROOT
+  (S
+    (NP (JJ Last) (NNP night) (NNP Hassan))
+    (VP (VBD Nasrallah)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Hezbollah) (NNP leader))
+          (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP$ his) (NNS men))
+                (VP (VBD had)
+                  (NP
+                    (NP (DT a) (JJ strategic,) (JJ historic) (NN victory))
+                    (PP (IN over)
+                      (NP (NNP a) (NNP confused) (NNP cowardly)
+                        (CC and)
+                        (NNP defeated") (NNP enemy)))))))))))))
+
+(ROOT
+  (NP
+    (NP (JJ Official) (NN ticket) (NNS sales))
+    (PP (IN for)
+      (NP
+        (NP (DT the) (NNP Cure's) (NN tour) (NN haven't))
+        (VP (VBN been)
+          (VP (VBN released)
+            (NP (NN yet))))))))
+ (ROOT
+  (S
+    (NP (DT The) (NNP Cure's) (NN management))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (NNS venues))
+          (VP (VBP have)
+            (VP (VBN been)
+              (VP (VBG selling)
+                (ADVP (RB close)
+                  (PP (TO to)
+                    (NP (NN capacity))))))))))))
+
+9

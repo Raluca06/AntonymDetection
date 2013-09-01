@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ right-handed)))))
+#
+(ROOT
+  (S
+    (NP (NNP Al-zarqawi))
+    (VP (VBD was)
+      (ADJP (JJ left-handed)))))
+#
